@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1550727765 source:e:\cÓïÑÔÀ¬»øÏä\ÆÕÀïÄ·Ëã·¨\main.c
+	"stdio.h"
+	"stdlib.h"
+	"io.h"
+	"math.h"
+	"time.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529914558 source:e:\c语言垃圾箱\变量生存期\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529914513 source:e:\c语言垃圾箱\变量生存期\mycount.c
+

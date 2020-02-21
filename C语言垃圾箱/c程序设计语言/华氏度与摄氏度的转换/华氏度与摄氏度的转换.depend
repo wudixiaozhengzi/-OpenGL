@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529380577 source:e:\c语言垃圾箱\华氏度与摄氏度的转换\main.c
+	<stdio.h>
+	<stdlib.h>
+

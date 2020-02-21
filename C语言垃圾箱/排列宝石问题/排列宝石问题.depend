@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548473252 source:e:\c语言垃圾箱\排列宝石问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

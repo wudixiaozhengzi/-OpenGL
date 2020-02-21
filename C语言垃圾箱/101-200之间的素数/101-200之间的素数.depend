@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527820306 source:e:\c语言垃圾箱\101-200之间的素数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

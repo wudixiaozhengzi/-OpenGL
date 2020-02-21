@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1531368678 source:e:\c语言垃圾箱\老九学堂\结构3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hero.h"
+
+1531368214 e:\c语言垃圾箱\老九学堂\结构3\hero.h
+	<stdio.h>
+	<stdlib.h>
+

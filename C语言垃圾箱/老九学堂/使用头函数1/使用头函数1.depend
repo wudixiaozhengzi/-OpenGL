@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1530931429 source:e:\c语言垃圾箱\使用头函数1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+
+1530931550 e:\c语言垃圾箱\使用头函数1\hotel.h
+
+1530931555 source:e:\c语言垃圾箱\使用头函数1\hotel.c
+	<stdio.h>
+	"hotel.h"
+

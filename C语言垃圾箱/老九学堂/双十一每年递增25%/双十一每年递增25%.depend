@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527781049 source:e:\c语言垃圾箱\双十一每年递增25%\main.c
+	<stdio.h>
+	<stdlib.h>
+

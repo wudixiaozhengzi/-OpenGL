@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1546250968 source:e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\hero.c
+	"hero.h"
+	<stdio.h>
+
+1546246120 e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\hero.h
+
+1546319815 source:e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"store.h"
+
+1546252269 source:e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\acount.c
+	"acount.h"
+
+1546252182 e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\acount.h
+	<stdio.h>
+	<stdlib.h>
+
+1546439656 e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\store.h
+	<stdio.h>
+	<stdlib.h>
+
+1546255125 source:e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\bagsystem.c
+
+1546440107 source:e:\cÓïÑÔÀ¬»øÏä\ÀÏ¾ÅÑ§ÌÃ\herodemo\store.c
+	"store.h"
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529156244 source:e:\c语言垃圾箱\指针与数组\main.c
+	<stdio.h>
+	<stdlib.h>
+

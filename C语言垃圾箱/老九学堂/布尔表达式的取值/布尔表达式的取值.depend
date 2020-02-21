@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529381144 source:e:\c语言垃圾箱\布尔表达式的取值\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554268340 source:e:\c语言垃圾箱\两数之和\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529765521 source:e:\c语言垃圾箱\自定义函数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
